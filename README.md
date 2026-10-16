@@ -1,5 +1,3 @@
-# Liquid Wars - Projet CPOO 2025-2026
-
 ## Compilation et Exécution
 
 ### Prérequis
