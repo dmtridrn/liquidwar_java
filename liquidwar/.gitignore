@@ -1,0 +1,7 @@
+# Gradle (cache et dossier build)
+.gradle/
+build/
+
+# VS Code (fichiers compilés et config locale)
+bin/
+.vscode/
